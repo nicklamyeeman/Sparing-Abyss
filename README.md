@@ -103,7 +103,7 @@ Be fast enough or you'll be facing the monster inside the maze and the issue isn
 This version is NOT be the last one for copyright reasons.
 
 There is a gameplay video there : 
-[![youtube](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/gameplay.png)](https://www.youtube.com/watch?v=HheH5rQ7_Ak "Sparing Abyss")
+[![youtube](https://github.com/nicklamyeeman/Sparing-Abyss/blob/main/Assets/README/gameplay.png)](https://www.youtube.com/watch?v=HheH5rQ7_Ak "Sparing Abyss")
 
 
 
